@@ -1,44 +1,38 @@
-# Pre-work - *Funny Tip Calculator*
-
-**Funny Tip Calculator** is a tip calculator application for iOS.
-
-Submitted by: **Julio**
-
-Time spent: **3** hours spent in total
-
 ## User Stories
 
-The following **required** functionality is complete:
+The following **Funny Tip Calculator** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
-The following **optional** features are implemented:
+The following **Funny Tip Calculator** features are implemented:
 
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
+The following **Split Count** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Slide the bar to split the bill amount up to 10 people!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/XESfkpG.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with [EZGIF](http://www.ezgif.com).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
+Adapting the slide bar was a challenge, and it needs further improvement, also, to think differently in order to make an original tip calculator was a little difficult at the beginning.
 
 ## License
 
-    Copyright [2022] [Julio]
+    Copyright [2022] [Julio Vázquez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
